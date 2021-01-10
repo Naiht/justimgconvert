@@ -1,0 +1,9 @@
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\bin\Debug\IMGConverter.exe
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\bin\Debug\IMGConverter.pdb
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\obj\Debug\IMGConverter.csprojAssemblyReference.cache
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\obj\Debug\IMGConverter.IMGConverter.resources
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\obj\Debug\IMGConverter.Properties.Resources.resources
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\obj\Debug\IMGConverter.csproj.GenerateResource.cache
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\obj\Debug\IMGConverter.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\obj\Debug\IMGConverter.exe
+D:\Proyectos C#\IMGConverter\IMGConverter\IMGConverter\obj\Debug\IMGConverter.pdb
